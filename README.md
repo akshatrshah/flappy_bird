@@ -1,10 +1,10 @@
-Project By: 
-Tattvam Shah, 16010120101
-Akshat Shah, 16010120102
-Yash Shah, 16010120103
-Chaitanya Shaligram, 16010120104
+Project By:   
+Tattvam Shah, 16010120101  
+Akshat Shah, 16010120102  
+Yash Shah, 16010120103  
+Chaitanya Shaligram, 16010120104  
 
-Flappy Bird with Genetic Algorithm
+Flappy Bird with Genetic Algorithm:  
 Flappy Bird is a simple game where the player controls a bird that must navigate through obstacles by flapping its wings to avoid collision. One interesting application of Artificial Intelligence (AI) to this game is to use a genetic algorithm to evolve an AI agent that can play the game automatically and achieve high scores.
 
 In a genetic algorithm, a population of agents is created, each with a set of parameters that determine its behavior in the game. These parameters are then evolved over multiple generations through a process of selection, crossover, and mutation, with the goal of improving the performance of the agents.
